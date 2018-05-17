@@ -1,0 +1,8 @@
+The project presents automated tests for creating blog app and posts for the blog.
+
+The code was made during the course "Automated Software Testing with Python" available on Udemy platform.
+It introduces the following knowledge to the student:
+- introduction to TDD
+- integration tests
+- patching, mocking and system tests
+- setUp method
